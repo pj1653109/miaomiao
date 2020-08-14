@@ -84,7 +84,8 @@
 </template>
 <script>
 export default {
-    name : 'City'
+    name : 'City',
+    
 }
 </script>
 <style scroped>
